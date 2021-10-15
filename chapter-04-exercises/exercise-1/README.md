@@ -6,5 +6,5 @@ In your `README.md` document, put your favorite quote in a block quote, and prov
 Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 > "Get thee to a nunnery."
-> `r tufte::quote_footer('--- William Shakespeare')`
+>       --- William Shakespeare
 [favequote] (https://www.nosweatshakespeare.com/quotes/famous/)
