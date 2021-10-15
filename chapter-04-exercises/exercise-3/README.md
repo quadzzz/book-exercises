@@ -16,3 +16,5 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 - commits changes within staging area
 - saves a snapshot of the files in the repository database
 - -m is an informative message explaining what changes that commit makes to the repo
+
+` just seeing what a single backtick renders `
