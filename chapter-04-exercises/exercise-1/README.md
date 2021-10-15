@@ -7,4 +7,4 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 > "Get thee to a nunnery."
 >       --- William Shakespeare
-[favequote] (https://www.nosweatshakespeare.com/quotes/famous/)
+(https://www.nosweatshakespeare.com/quotes/famous/)
